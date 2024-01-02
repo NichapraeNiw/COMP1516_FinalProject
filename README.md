@@ -13,6 +13,7 @@ A given list of tuples. Each tuple contains two elements: the name of a country 
 
 ### country.py
 
+
 **Class Definition (Country):**
 
 Defines a class named Country to represent information about a country.

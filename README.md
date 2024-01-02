@@ -16,6 +16,7 @@ A given list of tuples. Each tuple contains two elements: the name of a country 
 
 **Class Definition (Country):**
 
+
 Defines a class named Country to represent information about a country.
 
 

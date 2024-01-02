@@ -7,7 +7,6 @@ Create three Python files named data.py, country.py, main.py, amd test.py with t
  
 
 ### data.py
-
 A given list of tuples. Each tuple contains two elements: the name of a country and the corresponding capital city.
 
 
@@ -55,6 +54,7 @@ Prints and returns the updated population.
 
 ### main.py
 
+
 **Import:**
 
 Imports data about countries and capitals from an external file (countries_and_capitals).
@@ -93,6 +93,7 @@ If a ValueError occurs during any population modification operation (e.g., birth
 
 
 ### test.py
+
 
 **First Loop (normal):**
 
